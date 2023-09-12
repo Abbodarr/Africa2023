@@ -2,6 +2,15 @@
   {
     "display": 4,
     "wall": 1,
+    "photo": 0,
+    "subdir": "Day3/",
+    "filename": "",
+    "infoText": "",
+    "title":  "Around CapeTown"
+  },
+  {
+    "display": 4,
+    "wall": 1,
     "photo": 1,
     "subdir": "Day3/",
     "filename": "PXL_20230623_075938575.jpg",
