@@ -3,10 +3,10 @@
     "display": 4,
     "wall": 1,
     "photo": 0,
-    "subdir": "Day3/",
+    "subdir": "",
     "filename": "",
-    "infoText": "This is bogus infoText",
-    "title":  "Around CapeTown"
+    "infoText": "",
+    "title": "Around Capetown"
   },
   {
     "display": 4,
@@ -14,7 +14,8 @@
     "photo": 1,
     "subdir": "Day3/",
     "filename": "PXL_20230623_075938575.jpg",
-    "infoText": "Statue of Nelson Mandela at the Cape Town City Hall."
+    "infoText": "Statue of Nelson Mandela at the Capetown City Hall.",
+    "title": ""
   },
   {
     "display": 4,
@@ -22,7 +23,8 @@
     "photo": 2,
     "subdir": "Day3/",
     "filename": "PXL_20230623_095106543.jpg",
-    "infoText": "All the houses in this neighborhood are painted bright colors. Although the neighborhood was occupied by what was called \"Africans and coloreds\" (and it the terms still used by South Africans to this day), what we would call \"black and brown people\", they were not allowed to own property under Apartheid so leased the houses from white landlords. When the people who lived here were finally allowed to purchase property, then painted the houses bright colors as an expression of their freedom. The houses are repainted regularly, and are still painted in bright vibrant colors."
+    "infoText": "All the houses in this neighborhood are painted bright colors. Although the neighborhood was occupied by \"Africans and coloreds\" (still terms used by South Africans today), they were not allowed to own property under Apartheid.  Instead, they leased the houses from white landlords. When the people who lived here were finally allowed to purchase property, they painted the houses bright colors as an expression of their freedom. The houses are repainted regularly, still with bright, vibrant colors.",
+    "title": ""
   },
   {
     "display": 4,
@@ -30,7 +32,8 @@
     "photo": 3,
     "subdir": "Day3/",
     "filename": "PXL_20230623_095144796.jpg",
-    "infoText": ""
+    "infoText": "",
+    "title": ""
   },
   {
     "display": 4,
@@ -38,7 +41,8 @@
     "photo": 4,
     "subdir": "Day3/",
     "filename": "PXL_20230623_101122775.jpg",
-    "infoText": "Still in the neighborhood. This artists makes art out of recycled materials."
+    "infoText": "<align=\"center\"><size=150%>Nathan Chikoto\n<b>Recycle Artist</b></size></align>\n\nStill in the neighborhood. This artists makes art out of recycled materials.",
+    "title": ""
   },
   {
     "display": 4,
@@ -46,7 +50,8 @@
     "photo": 5,
     "subdir": "Day3/",
     "filename": "PXL_20230623_100644452.jpg",
-    "infoText": "This is a model of neighborhood itself, made out of scrap metal."
+    "infoText": "This is a model of neighborhood itself, made out of scrap metal.",
+    "title": ""
   },
   {
     "display": 4,
@@ -54,7 +59,8 @@
     "photo": 6,
     "subdir": "Day3/",
     "filename": "PXL_20230623_100652734.jpg",
-    "infoText": "Made from old Nespresso pods.\n"
+    "infoText": "Made from old Nespresso pods.\n",
+    "title": ""
   },
   {
     "display": 4,
@@ -62,7 +68,8 @@
     "photo": 7,
     "subdir": "Day3/",
     "filename": "PXL_20230623_100712788.jpg",
-    "infoText": "Made from old Nespresso pods.\n"
+    "infoText": "Made from old Nespresso pods.\n",
+    "title": ""
   },
   {
     "display": 4,
@@ -70,7 +77,8 @@
     "photo": 8,
     "subdir": "Day3/",
     "filename": "PXL_20230623_100801488.jpg",
-    "infoText": "From old soft drink cans. You can see the colors of Coca Cola cans in some of them.\n"
+    "infoText": "From old soft drink cans. You can see the colors of Coca Cola cans in some of them.\n",
+    "title": ""
   },
   {
     "display": 4,
@@ -78,6 +86,7 @@
     "photo": 9,
     "subdir": "Day3/",
     "filename": "PXL_20230623_100914823.jpg",
-    "infoText": "Old bicycle tires.\n"
+    "infoText": "Old bicycle tires.\n",
+    "title": ""
   }
 ]
