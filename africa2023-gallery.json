@@ -303,7 +303,7 @@
     "photo": 3,
     "subdir": "Day5/",
     "filename": "357503748_10229999108431230_2606669952889442782_n.jpg",
-    "infoText": "We drove from the airport to our lodge in the same vehicles we would use for the game drives. Just as we were leaving the airport, we saw our first animals! Impala.",
+    "infoText": "<align=\"center\"><size=150%><b>Impala</b></size></align>\n\nWe drove from the airport to our lodge in the same vehicles we would use for the game drives. Just as we were leaving the airport, we saw our first animals! Impala.",
     "title": ""
   },
   {
@@ -312,7 +312,7 @@
     "photo": 4,
     "subdir": "Day5/",
     "filename": "357783780_10229999106031170_3159888068406838335_n.jpg",
-    "infoText": "At our lodge, we saw our first Nyala. The lodge is in the middle of the nature reserve so the animals are free to roam nearby.",
+    "infoText": "<align=\"center\"><size=150%><b>Nyala</b></size></align>\n\nAt our lodge, we saw our first Nyala. The lodge is in the middle of the nature reserve so the animals are free to roam nearby.",
     "title": ""
   },
   {
@@ -330,7 +330,7 @@
     "photo": 6,
     "subdir": "Day5/",
     "filename": "357719408_10229999116191424_2107612937275250488_n.jpg",
-    "infoText": "Our first find on our first game drive, zebras!",
+    "infoText": "<align=\"center\"><size=150%><b>Zebra</b></size></align>\n\nOur first find on our first game drive, zebras!",
     "title": ""
   },
   {
@@ -366,7 +366,7 @@
     "photo": 1,
     "subdir": "Day5/",
     "filename": "357723605_10229999119151498_6912247665362391884_n.jpg",
-    "infoText": "If you look towards the center of the photo, on the ground, you can see a monkey!",
+    "infoText": "<align=\"center\"><size=150%><b>Monkey</b></size></align>\n\nIf you look towards the center of the photo, on the ground, you can see a monkey!",
     "title": ""
   },
   {
@@ -384,7 +384,7 @@
     "photo": 3,
     "subdir": "Day5/",
     "filename": "358039429_10229999114631385_8010500880749727141_n.jpg",
-    "infoText": "",
+    "infoText": "Rhino",
     "title": ""
   },
   {
@@ -393,7 +393,7 @@
     "photo": 4,
     "subdir": "Day5/",
     "filename": "357498058_10229999110391279_7340320439002627097_n.jpg",
-    "infoText": "Out guide, Cruz, did an amazing job getting us into position for this shot, with the Rhino taking a drink and his reflection appearing in the water.",
+    "infoText": "Our guide, Cruz, did an amazing job getting us into position for this shot, with the Rhino taking a drink and his reflection appearing in the water.",
     "title": ""
   },
   {
@@ -402,7 +402,7 @@
     "photo": 5,
     "subdir": "Day5/",
     "filename": "357742470_10229999113831365_1007247958822648619_n.jpg",
-    "infoText": "African wild dog! These are a rare find, and we were lucky they were in the area when we came. Cruz told us some people have been coming back for 5 years in hopes of seeing them, and haven't seen them yet.",
+    "infoText": "<align=\"center\"><size=150%><b>African wild dog</b></size></align>\n\nThese are a rare find, and we were lucky they were in the area when we came. Cruz told us some people have been coming back for 5 years in hopes of seeing them, and haven't seen them yet.",
     "title": ""
   },
   {
@@ -429,7 +429,7 @@
     "photo": 8,
     "subdir": "Day5/",
     "filename": "357721325_10229999117991469_3441805270430537713_n.jpg",
-    "infoText": "",
+    "infoText": "<align=\"center\"><size=150%><b>Hyena</b></size></align>\n\nThe hyena, up close.",
     "title": ""
   },
   {
