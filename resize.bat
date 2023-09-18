@@ -1,4 +1,4 @@
 @echo off
 for %%i in (*.jpg) do (
-  magick convert "%%i" -resize "2048x2048>" "%%i"
+  magick convert "%%i" -resize "1024x1024>" "%%i"
 )
